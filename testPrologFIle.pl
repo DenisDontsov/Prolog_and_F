@@ -1,1 +1,0 @@
-coolPred(1).
