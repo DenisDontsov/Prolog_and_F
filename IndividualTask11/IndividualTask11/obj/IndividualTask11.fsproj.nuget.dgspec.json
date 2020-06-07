@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Денис\\Desktop\\Учёба\\Функциональное и логическое программирование\\Функциональное программирование\\ИЗ Программы\\IndividualTask11\\IndividualTask11\\IndividualTask11.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Денис\\Desktop\\Учёба\\Функциональное и логическое программирование\\Функциональное программирование\\ИЗ Программы\\IndividualTask11\\IndividualTask11\\IndividualTask11.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Учёба\\Функциональное и логическое программирование\\Функциональное программирование\\ИЗ Программы\\IndividualTask11\\IndividualTask11\\IndividualTask11.fsproj",
+        "projectName": "IndividualTask11",
+        "projectPath": "C:\\Users\\Денис\\Desktop\\Учёба\\Функциональное и логическое программирование\\Функциональное программирование\\ИЗ Программы\\IndividualTask11\\IndividualTask11\\IndividualTask11.fsproj",
+        "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Денис\\Desktop\\Учёба\\Функциональное и логическое программирование\\Функциональное программирование\\ИЗ Программы\\IndividualTask11\\IndividualTask11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net451"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net451": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net451": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
